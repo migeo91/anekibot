@@ -5,6 +5,3 @@
 pip install pyTelegramBotAPI
 
 pip install requests
-
-Hello World
-
